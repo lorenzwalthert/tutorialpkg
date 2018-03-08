@@ -11,12 +11,3 @@
 add_two_numbers <- function(x, y) {
   sum(x, y)
 }
-
-#' @importFrom dplyr filter
-subset2 <- function(...) {
-  filter(...)
-}
-
-
-
-
